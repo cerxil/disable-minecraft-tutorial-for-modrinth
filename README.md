@@ -1,5 +1,7 @@
 # Disable Minecraft Tutorial for Modrinth Profiles
 
+![Tutorial Screenshot](https://raw.githubusercontent.com/cerxil/disable-minecraft-tutorial-for-modrinth/refs/heads/main/Tutorial.png)
+
 This script disables the Minecraft tutorial across all your Modrinth profiles by modifying each profile’s `options.txt` file.
 
 ## How It Works

@@ -53,4 +53,4 @@ If you encounter errors:
 
 ---
 
-Feel free to open an issue if something doesn't work as expected.
+If something doesn’t work as expected, feel free to [open an issue](https://github.com/cerxil/disable-minecraft-tutorial-for-modrinth/issues).
